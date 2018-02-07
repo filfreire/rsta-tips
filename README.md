@@ -21,11 +21,8 @@ TBD
 
 ## Sources
 
-[James Bach website](http://www.satisfice.com/)
-[Michael Bolton website](http://www.developsense.com/)
-[Lessons learned in Software Testing - A context driven approach (Book)](http://a.co/hoR99sF)
-Cem Kaner - TBD - http://kaner.com/
-Bret Pettichord - TBD
-
-
-
+- [James Bach website](http://www.satisfice.com/)
+- [Michael Bolton website](http://www.developsense.com/)
+- [Lessons learned in Software Testing - A context driven approach (Book)](http://a.co/hoR99sF)
+- [Cem Kaner](http://kaner.com/) - TBD
+- Bret Pettichord - TBD
