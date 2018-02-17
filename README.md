@@ -6,18 +6,38 @@ Here you can find a list of all major topics of RST (Rapid Software Testing) wit
 
 On some topics you'll also find a short "reminder-like" summary/description for some terms that are used often.
 
-## Part 1
+## Topics (document is still WIP)
 
-TBD
+### Heuristic Test Strategy Model
 
-## Part 2
+### The Testing Formality Continuum
 
-TBD
+### Mixing Scripting and Exploration
 
-## Part 3
+### Test notes
 
-TBD
+### Sanity Testing and Survey Testing
 
+### Good Tempo - Deliberative & Spontaneous
+
+### Engagement and Judgement
+
+### Deep and Shallow Testing
+
+### Session-based and thread-based test management 
+
+### Forms of Test management - people-based, artifact-based, activity-based
+
+### Test session
+
+### Charter
+
+### Oracles 
+(means to recognize a problem you encounter during testing)
+
+### Context-driven: reporting
+
+### Test Strategy
 
 ## Sources
 
